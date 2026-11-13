@@ -1,5 +1,5 @@
 #Cajero automatico
-saldo = 00.0  # Saldo inicial de ejemplo
+saldo = 100.0  # Saldo inicial de ejemplo
 
 while True:
     print('''
